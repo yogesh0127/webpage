@@ -1,0 +1,19 @@
+<style>
+h1{
+    background-color: cyan;
+}
+.background {
+     background-image: url("img/website-templates-background-images-11.jpg") ;
+     background-repeat: no-repeat;
+     background-size: 1000px;
+     background-position: center;
+     height: 1000px;
+     width: 1000px;
+}
+h1{
+    text-indent: 500px;
+}
+h2{
+    text-align-last: right;
+}
+</style>
